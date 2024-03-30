@@ -1,5 +1,6 @@
-import React from 'react';
-import { Layout } from '../components';
+import React from "react";
+import { Layout } from "../components";
+import { gql } from "@apollo/client";
 
 /**
  * Tracks Page is the Catstronauts home page.
